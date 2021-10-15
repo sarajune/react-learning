@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/69583083/how-to-reflect-font-awesome-icons-in-the-react-project
